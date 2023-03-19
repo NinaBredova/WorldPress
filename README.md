@@ -1,2 +1,2 @@
-# WorldPress
-Training project on clean HTML/CSS
+# worldpress
+Training progect on clear HTML/CSS
